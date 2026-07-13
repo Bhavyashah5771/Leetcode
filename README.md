@@ -33,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Bhavyashah5771/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Bhavyashah5771/Leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
