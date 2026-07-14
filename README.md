@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Bhavyashah5771/Leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Bhavyashah5771/Leetcode/tree/master/0035-search-insert-position) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Bhavyashah5771/Leetcode/tree/master/1291-sequential-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Bhavyashah5771/Leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
