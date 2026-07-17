@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Bhavyashah5771/Leetcode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/Bhavyashah5771/Leetcode/tree/master/0125-valid-palindrome) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Bhavyashah5771/Leetcode/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/Bhavyashah5771/Leetcode/tree/master/0125-valid-palindrome) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Bhavyashah5771/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
