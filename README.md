@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Bhavyashah5771/Leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bhavyashah5771/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Bhavyashah5771/Leetcode/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/Bhavyashah5771/Leetcode/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhavyashah5771/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhavyashah5771/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhavyashah5771/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Bhavyashah5771/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/Bhavyashah5771/Leetcode/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
