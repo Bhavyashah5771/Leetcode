@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Bhavyashah5771/Leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Bhavyashah5771/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Bhavyashah5771/Leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Bhavyashah5771/Leetcode/tree/master/0027-remove-element) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Bhavyashah5771/Leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Bhavyashah5771/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Bhavyashah5771/Leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Bhavyashah5771/Leetcode/tree/master/0027-remove-element) |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Bhavyashah5771/Leetcode/tree/master/0877-stone-game) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Bhavyashah5771/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
