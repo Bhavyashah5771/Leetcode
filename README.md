@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Bhavyashah5771/Leetcode/tree/master/0041-first-missing-positive) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Bhavyashah5771/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhavyashah5771/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Bhavyashah5771/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bhavyashah5771/Leetcode/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhavyashah5771/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Bhavyashah5771/Leetcode/tree/master/0877-stone-game) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Bhavyashah5771/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Bhavyashah5771/Leetcode/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/Bhavyashah5771/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bhavyashah5771/Leetcode/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhavyashah5771/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhavyashah5771/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Bhavyashah5771/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/Bhavyashah5771/Leetcode/tree/master/0169-majority-element) |
 ## Merge Sort
 |  |
 | ------- |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Bhavyashah5771/Leetcode/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/Bhavyashah5771/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bhavyashah5771/Leetcode/tree/master/0217-contains-duplicate) |
 | [3731-find-missing-elements](https://github.com/Bhavyashah5771/Leetcode/tree/master/3731-find-missing-elements) |
 ## Game Theory
@@ -141,4 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bhavyashah5771/Leetcode/tree/master/0011-container-with-most-water) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Bhavyashah5771/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Bhavyashah5771/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
