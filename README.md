@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Bhavyashah5771/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Bhavyashah5771/Leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Bhavyashah5771/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0326-power-of-three](https://github.com/Bhavyashah5771/Leetcode/tree/master/0326-power-of-three) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhavyashah5771/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Bhavyashah5771/Leetcode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhavyashah5771/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Bhavyashah5771/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Bhavyashah5771/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Bhavyashah5771/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/Bhavyashah5771/Leetcode/tree/master/0326-power-of-three) |
 ## Enumeration
 |  |
 | ------- |
