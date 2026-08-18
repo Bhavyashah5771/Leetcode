@@ -1,5 +1,5 @@
 bool searchMatrix(int** matrix, int matrixSize, int* matrixColSize, int target) {
-    int i=0,cs=0,l=0,h=0,mid=0,lr=0,mr=0,hr=matrixSize-1;;
+    int cs=0,l=0,h=0,mid=0,lr=0,mr=0,hr=matrixSize-1;;
     bool ans=false;
 
     while(lr<=hr){
@@ -28,9 +28,6 @@ bool searchMatrix(int** matrix, int matrixSize, int* matrixColSize, int target) 
             }
             break;
         }
-           
-        
-        i++;
     }
     return ans;
 }
