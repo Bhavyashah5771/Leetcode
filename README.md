@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhavyashah5771/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Bhavyashah5771/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bhavyashah5771/Leetcode/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/Bhavyashah5771/Leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhavyashah5771/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Bhavyashah5771/Leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bhavyashah5771/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Bhavyashah5771/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Bhavyashah5771/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bhavyashah5771/Leetcode/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/Bhavyashah5771/Leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhavyashah5771/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bhavyashah5771/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhavyashah5771/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
